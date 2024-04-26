@@ -1,0 +1,12 @@
+.section_banner {
+    width: 120rem;
+    height: 35rem;
+    margin: auto;
+}
+
+.section_banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}

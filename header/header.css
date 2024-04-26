@@ -19,3 +19,20 @@ header .box_img img {
     height: 100%;
     object-fit: cover;
 }
+
+.box_img {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25.9rem;
+}
+
+.btn1 {
+    background-color: blueviolet;
+    color: white;
+    font-size: 2rem;
+    
+
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+}
